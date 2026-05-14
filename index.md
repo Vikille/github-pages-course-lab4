@@ -1,3 +1,2 @@
----
-title: Welcome to my blog!
----
+# Моя первая страница на GitHub Pages
+Привет! Это мой учебный сайт.
